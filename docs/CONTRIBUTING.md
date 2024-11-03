@@ -3,6 +3,14 @@
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
+  ## Licensing
+
+  By contributing, you agree that your contributions will be licensed under the project's licenses:
+
+  - **Content contributions**: CC BY-NC-SA 4.0
+  - **Code contributions**: MIT License
+
+
 ## Development environment setup
 
 > **[?]**
