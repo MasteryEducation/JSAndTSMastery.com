@@ -131,7 +131,7 @@ Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you f
 
 ## Authors & contributors
 
-The original setup of this repository is by [Fuad Efendi](https://github.com/MasteryEducation).
+The original setup of this repository is by [Fuad Efendi](https://github.com/FuadEfendi).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/MasteryEducation/JSAndTSMasteryLibrary.com/contributors).
 
