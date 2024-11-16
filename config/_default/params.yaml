@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: JSAndTSMastery.com
+        title: JS And TS Mastery
       posts:
         recent_count: 0
         featured_count: 0
@@ -103,7 +103,7 @@ hb:
     #https://github.com/apps/giscus
     #https://giscus.app/#repository
     giscus:
-      repo: MasteryEducation/FunctionalProgrammingMastery.com
+      repo: MasteryEducation/JSAndTSMastery.com
       repo_id: R_kgDONJc1pA
       category: Announcements
       category_id: DIC_kwDONJc1pM4CkJzd
@@ -129,7 +129,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'JSAndTSMastery.com'
+    short_name: 'JS And TS Mastery'
 
 # https://hugomods.com/search/configurations/
 search:
