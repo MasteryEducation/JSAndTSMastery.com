@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help JSAndTSMasteryLibrary.com to improve
+about: Create a report to help JSAndTSMastery.com to improve
 title: "bug: "
 labels: "bug"
 assignees: ""
@@ -8,7 +8,7 @@ assignees: ""
 
 # Bug Report
 
-**JSAndTSMasteryLibrary.com version:**
+**JSAndTSMastery.com version:**
 
 <!-- Please specify commit or tag version. -->
 
