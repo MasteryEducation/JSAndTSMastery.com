@@ -1,11 +1,11 @@
 ---
 canonical: "https://jsandtsmastery.com/1"
 title: |
-  JavaScript Essentials
+  JavaScript Essentials: Getting Started with Programming
 description: |
   An introductory guide for those new to programming, covering the basics of JavaScript syntax, variables, data types, and control structures. Perfect for absolute beginners looking to write their first lines of code.
 linkTitle: |
-  JavaScript Essentials: Getting Started with Programming
+  JavaScript Essentials
 description: 
 type: docs
 nav_weight: 1

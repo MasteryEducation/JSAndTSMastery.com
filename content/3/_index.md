@@ -1,11 +1,11 @@
 ---
 canonical: "https://jsandtsmastery.com/3"
 title: |
-  Web Page with JavaScript
+  Building Your First Web Page with JavaScript
 description: |
   Step-by-step instructions on how to create dynamic web pages using HTML, CSS, and JavaScript. Understand how to manipulate the Document Object Model (DOM) to make interactive websites.
 linkTitle: |
-  Building Your First Web Page with JavaScript
+  Web Page with JavaScript
 description: 
 type: docs
 nav_weight: 3
