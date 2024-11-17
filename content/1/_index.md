@@ -10,7 +10,7 @@ type: docs
 nav_weight: 1
 menu:
   main:
-    parent: Basics
+    parent: beginner
     weight: 1
     params:
       description: 
