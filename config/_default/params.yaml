@@ -104,9 +104,9 @@ hb:
     #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/JSAndTSMastery.com
-      repo_id: R_kgDONJc1pA
+      repo_id: R_kgDONJdfTQ
       category: Announcements
-      category_id: DIC_kwDONJc1pM4CkJzd
+      category_id: DIC_kwDONJdfTc4Cj7fz
       mapping: title
       strict_matching: true
       input_position: top
