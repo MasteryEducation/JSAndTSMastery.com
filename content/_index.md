@@ -15,7 +15,7 @@ type: docs
 
 Elevate your web development skills with our comprehensive resources on JavaScript and TypeScript. Whether you're just starting your programming journey or looking to deepen your expertise, JSAndTSMastery.com is your ultimate destination for mastering the most versatile languages of the web.
 
-## Why JavaScript and TypeScript?
+## Why JS And TS?
 
 - **JavaScript:** The backbone of modern web applications, enabling interactive and dynamic user experiences across the web.
 - **TypeScript:** A powerful superset of JavaScript that adds static typing, interfaces, and advanced features to help you build large-scale, maintainable projects with confidence.
