@@ -14,7 +14,7 @@ menu:
     parent: beginner
     weight: 4
     params:
-      description: 
+      description: Understanding Variables and Data Types in JavaScript
       icon:
         vendor: bs
         name: book

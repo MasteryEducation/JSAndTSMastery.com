@@ -14,7 +14,8 @@ menu:
     parent: beginner
     weight: 2
     params:
-      description: A Gentle Introduction
+      description: |
+        A Gentle Introduction
       icon:
         vendor: bs
         name: book

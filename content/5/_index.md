@@ -14,7 +14,7 @@ menu:
     parent: beginner
     weight: 5
     params:
-      description: 
+      description: Functions and Scope in JavaScript
       icon:
         vendor: bs
         name: book
