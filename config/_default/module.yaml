@@ -58,7 +58,7 @@ imports:
 
   # other modules
   - path: github.com/hugomods/google-analytics
-  # - path: github.com/hugomods/google-adsense
+  - path: github.com/hugomods/google-adsense
 
   # check which modules were imported by recommended module by "hugo mod graph | grep recommended".
   # see also https://hbstack.dev/en/docs/modules/meta/.

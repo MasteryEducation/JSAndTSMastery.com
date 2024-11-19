@@ -2,3 +2,6 @@
 # googleAnalytics: 'G-XXXXXXXXXX' # Google Analytics, please make sure you've imported the Google Analytics module.
 googleAnalytics: 'G-M5B7T9T5QT'
 # disqusShortname: XXXXXX # The Disqus shortname.
+
+params:
+  google_adsense: ca-pub-4156851781403242
