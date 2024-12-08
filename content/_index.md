@@ -1,13 +1,13 @@
 ---
 title: |
-  JavaScript And TypeScript Mastery Guide
+  JavaScript & TypeScript Tutorials & Advanced Topics
 description: |
-  Unlock your potential as a web developer with JSAndTSMastery.com. Explore expert tutorials, in-depth guides, and practical examples to master JavaScript and TypeScript for building dynamic, high-performing web applications.
+  Master JavaScript & TypeScript with tutorials, examples & advanced topics. Build dynamic web apps & leverage TypeScript's static typing for large projects.
 homepage: true
 type: docs
 ---
 
-# JavaScript And TypeScript Mastery
+# JavaScript & TypeScript Tutorials & Advanced Topics
 
 > Unlock your potential as a web developer with [JSAndTSMastery.com](). Explore expert tutorials, in-depth guides, and practical examples to master JavaScript and TypeScript for building dynamic, high-performing web applications.
 

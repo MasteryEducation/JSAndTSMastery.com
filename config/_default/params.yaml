@@ -3,8 +3,8 @@ title_sections: false # when false, remove the sections from the title.
 # title_sections_depth: 1 # the depth of sections on the title.
 # title_sections_depth_dir: start # when start, the depth is counting from the root sections.
 
-description: >
-  Empowering Mastery Education with 1000+ Free Open-Source Books
+description: |
+  JS & TS Mastery Library provides tutorials, examples, and advanced topics on JavaScript and TypeScript to help developers build dynamic web applications and harness TypeScript's static typing for large-scale projects.
 
 code_block_panel:
   max_lines: 100
@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: JSAndTSMastery.com
+    brand: JavaScript & TypeScript Tutorials
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: JS And TS Mastery
+        title: JavaScript & TypeScript Tutorials
       posts:
         recent_count: 0
         featured_count: 0
@@ -129,7 +129,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'JS And TS Mastery'
+    short_name: 'JavaScript & TypeScript Tutorials'
 
 # https://hugomods.com/search/configurations/
 search:
